@@ -1,0 +1,18 @@
+	  DS Grocery Store
+	2006 Fort Argyle rd
+
+ Bill Number: 8691 
+ Customer Name: dhiraj
+ Phone Number: 9125322044
+ ===============================
+ Products		QTY	Price
+ ===============================
+ Bath Soap		1	7.99
+ Face Lotion		0	0.0
+ Flour		1	5.99
+ Food oil		1	9.99
+ -------------------------------
+ Cosmetic Tax			$ 1.47
+ Grocery Tax			$ 0.48
+ Total Bill:			 $ 38.91
+ -------------------------------

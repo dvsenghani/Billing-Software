@@ -1,0 +1,15 @@
+	  DS Grocery Store
+	2006 Fort Argyle rd
+
+ Bill Number: 9654
+ Customer Name: dhirj1
+ Phone Number: 536y4
+ ===============================
+ Products		QTY	Price
+ ===============================
+ Bath Soap		3	23.97
+ Face Wash		0	0.0
+ -------------------------------
+ Cosmetic Tax			$ 10.77
+ Total Bill:   		 $ 164.61
+ -------------------------------
